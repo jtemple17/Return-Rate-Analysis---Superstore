@@ -9,6 +9,8 @@ Key Findings
 - August is the month with the highest return rate, followed by September. These are both end of summer months -- something to consider.
 
 - Consumer segmented customers produced the most returns at 28%.
+# Link-To-Tableau-Public-Dashboard
+https://public.tableau.com/app/profile/jacob.temple/viz/Book2_17564940703340/AnalysisofReturns?publish=yes
 
 # Tools-Used
   - Tableau Dashboard
