@@ -10,9 +10,9 @@ Key Findings
 
 - Consumer segmented customers produced the most returns at 28%.
 
-  # Tools-Used
+# Tools-Used
   - Tableau Dashboard
   - Tableau Public
 
- # Data-Source 
+# Data-Source 
  [Superstore.xls](https://github.com/user-attachments/files/22052213/Superstore.xls)
